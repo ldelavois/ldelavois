@@ -4,7 +4,7 @@ My name is Ludovic DELAVOIS and I live in Bordeaux :wine_glass:.
 
 I'm a Full Stack Developer with a MS degree in Computer Science :computer: from University of Bordeaux  . I've worked on projects in Spring/Angular and also .NET Core.
 
-Here you will find the source code of my main projects.
+Here you will find the source code of my main projects and you can check my website at [delavois.com](https://delavois.com).
 
 
 
