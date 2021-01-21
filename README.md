@@ -10,7 +10,7 @@ Here you will find the source code of my main projects and you can check my webs
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ldelavois)](https://github.com/ldelavois/github-readme-streak-stats)
 
-![Metrics](https://metrics.lecoq.io/ldelavois?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&languages=1&isocalendar=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FParis&config.animated=true)
+<!--![Metrics](https://metrics.lecoq.io/ldelavois?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&languages=1&isocalendar=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FParis&config.animated=true) -->
 
 
 
