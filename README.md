@@ -2,13 +2,15 @@
 
 My name is Ludovic DELAVOIS and I live in Bordeaux :wine_glass: :fr: .
 
-I'm a Full Stack Developer with a MS degree in Computer Science :computer: from University of Bordeaux.
+I'm a Full Stack Developer with a MSc degree in Computer Science :computer: from University of Bordeaux.
 
 I'm currently working at CIS Valley on .NET/.NET Core projects. I've worked on projects in Spring/Angular and also .NET Core.
 
 I'm interested in programming with new technologies (Back or Front End) and IoT. 
 
 Here you will find the source code of my main projects and you can check my website at [delavois.com](https://delavois.com).
+
+Don't hesitate to send me feedbacks and comment of my projects.
 
 Hobbies: :tennis: :soccer: :surfer: :ski: 
 
