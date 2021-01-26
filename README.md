@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldelavois" alt="ldelavois" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ludodelavois" target="blank"><img src="https://img.shields.io/twitter/follow/ludodelavois?logo=twitter&style=for-the-badge" alt="ludodelavois" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/ludodelavois" target="blank"><img src="https://img.shields.io/twitter/follow/ludodelavois?logo=twitter&style=for-the-badge" alt="ludodelavois" /></a> </p> --!>
 
 - 🌱 I’m currently learning **.NET/.NET Core, Vue.JS and React**
 
