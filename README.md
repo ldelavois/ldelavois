@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ludovic DELAVOIS</h1>
-<h3 align="center">A French Full Stack developer in Bordeaux</h3>
+<h3 align="center">A :fr: Full Stack developer :computer: in Bordeaux :wine_glass:</h3>
+<h3 align="center">Currently :man_technologist: at <a href="https://www.cis-valley.fr/">CIS Valley</a></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldelavois&label=Profile%20views&color=0e75b6&style=flat" alt="ldelavois" /> </p>
 
@@ -15,11 +17,14 @@
 
 - 📄 Know about my experiences [linkedin.com/in/ludovic-delavois](linkedin.com/in/ludovic-delavois)
 
+- My hobbies: :tennis: :soccer: :surfer: :video_game:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ludodelavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ludodelavois" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ludovic-delavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ludovic-delavois" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ludovic-delavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ludovic-delavois" height="30" width="40" /></a>
+  <a href="https://github.com/ldelavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ldelavois" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
