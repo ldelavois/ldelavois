@@ -3,7 +3,12 @@
 <h3 align="center">Working :man_technologist: at <a href="https://www.cis-valley.fr/">CIS Valley</a></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldelavois&label=Profile%20views&color=0e75b6&style=flat" alt="ldelavois" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ldelavois&label=Profile%20views&color=0e75b6&style=flat" alt="ldelavois" />
+[![Linkedin: LudovicDelavois](https://img.shields.io/badge/-ldelavois-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludovic-delavois/)](https://www.linkedin.com/in/ludovic-delavois/)&nbsp;&nbsp;&nbsp;
+[![GitHub ldelavois](https://img.shields.io/github/followers/ldelavois?label=follow&style=social)](https://github.com/ldelavois)&nbsp;&nbsp;&nbsp;
+[![website](https://img.shields.io/badgedelavois.com-2648ff?style=plastic&logo=google-chrome)](https://delavois.com/)</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldelavois" alt="ldelavois" /></a> </p>
 
