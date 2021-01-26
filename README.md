@@ -14,11 +14,10 @@
 
 - 🌱 I’m currently learning **.NET/.NET Core, Vue.JS and React**
 
-- 👨‍💻 All of my projects are available at [delavois.com](delavois.com)
+- 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a>
 
 - 📫 How to reach me **ldelavois@outlook.com**
-
-- 📄 Know about my experiences [linkedin.com/in/ludovic-delavois](linkedin.com/in/ludovic-delavois)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/ludovic-delavois" target="_blank">on Linkedin</a>
 
 - My hobbies: :tennis: :soccer: :surfer: :video_game:
 
