@@ -12,7 +12,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ludodelavois" target="blank"><img src="https://img.shields.io/twitter/follow/ludodelavois?logo=twitter&style=for-the-badge" alt="ludodelavois" /></a> </p> -->
 
-- 🌱 I’m currently learning **.NET/.NET Core, Vue.JS and React**
+- :books: I’m currently learning **.NET/.NET Core, Vue.JS and React**
 
 - 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a>
 
