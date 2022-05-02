@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ludovic DELAVOIS</h1>
 <h3 align="center">A :fr: software developer :computer: in Bordeaux :wine_glass:</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://www.cis-valley.fr/">CIS Valley</a></h3>
+<h3 align="center">Working :man_technologist: at <a href="https://www.cis-valley.fr/">Avanade</a></h3>
 
 
 <p align="left"> 
