@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ludovic DELAVOIS</h1>
-<h3 align="center">A :fr: software developer :computer: in Bordeaux :wine_glass:</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://www.cis-valley.fr/">Avanade</a></h3>
+<h3 align="center">A French software developer in Bordeaux 🍷</h3>
+<h3 align="center">Working at <a href="https://www.avanade.com/">Avanade</a> 👨‍💻</h3>
 
 
 <p align="left"> 
@@ -15,17 +15,15 @@
 - :books: I’m currently learning **NgRx**
 
 - 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a>
-
 - 📫 How to reach me **ldelavois@outlook.com**
 - 📄 Know about my experiences <a href="https://linkedin.com/in/ludovic-delavois" target="_blank">on Linkedin</a>
 
-- My hobbies: 🎾 ⚽ 🏃👟 🎮
+- My hobbies: 🎾 ⚽ 🏃 🎮
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--<a href="https://twitter.com/ludodelavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ludodelavois" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/ludovic-delavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ludovic-delavois" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ludovic-delavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ludovic-delavois" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14607454/ludovic-delavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ludovic-delavois" height="30" width="40" /></a>
   <a href="https://github.com/ldelavois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ldelavois" height="30" width="40" /></a>
 </p>
 
