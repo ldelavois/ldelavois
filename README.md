@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ludovic DELAVOIS</h1>
-<h3 align="center">A French software developer in Bordeaux 🍷</h3>
+<h3 align="center">A French web developer in Bordeaux 🍷</h3>
 <h3 align="center">Working at <a href="https://www.avanade.com/">Avanade</a> 👨‍💻</h3>
 
 
