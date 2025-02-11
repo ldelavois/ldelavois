@@ -18,7 +18,7 @@
 - 📫 How to reach me **ldelavois@outlook.com**
 - 📄 Know about my experiences <a href="https://linkedin.com/in/ludovic-delavois" target="_blank">on Linkedin</a>
 
-- My hobbies: 🎾 ⚽ 🏃 🏋️‍♂️
+- My hobbies: 🎾 🏋️‍♂️ ⚽ 🏃 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
