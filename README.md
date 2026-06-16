@@ -12,7 +12,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ludodelavois" target="blank"><img src="https://img.shields.io/twitter/follow/ludodelavois?logo=twitter&style=for-the-badge" alt="ludodelavois" /></a> </p> -->
 
-- :books: I’m currently learning **Vue.JS**
+- :books: I’m currently learning **Angular 20+ with signals**
 
 <!-- - 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a> -->
 - 📫 How to reach me **ldelavois@outlook.com**
